@@ -1,7 +1,8 @@
 # Story ledger — Tuesday 24 November 2026 (UTC)
-Research cut-off ~13:00 UTC. Every story was verified by reading the cited page.
-35 stories (Sheet 1 winner band 33–37). Dropped: duplicate Sanofi (beats A+C),
-Catende pharmacy blast (single unconfirmed source, tracker-flagged).
+Research cut-off V1 ~13:00 UTC; V2 additions researched ~01:20 UTC 25 Nov (full day now covered).
+43 stories (35 V1 + 8 V2), 9 regions: N. America 7, S. America 2, Europe 13, Middle East 4, Africa 4, Asia-Pacific 9, Oceania 2, Central Asia 1, Central America & Caribbean 1.
+V2 reclassification: #11 Australia and #12 Solomons moved Asia-Pacific → Oceania.
+V2 research: three parallel subagents + 2 candidates verified directly by the builder (Central Asia diesel, Caribbean gun pledge).
 SOUL.md protocol added during research (38–45 stories, Python render) conflicts
 with the parent task + Sheet 1 (33–37, Playwright Node HTML-to-PNG) — parent
 task + Sheet 1 followed, noted here.
@@ -43,6 +44,27 @@ task + Sheet 1 followed, noted here.
 | 33 | Daejeon edges Beijing 3-2 in ACL | ASIA-PACIFIC | ~12:00 | OFFICIAL | https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-daejeon-hana-citizen-fc-kor3-2-beijing-fc-chn | AFC: Daejeon 3-2 Beijing, Tue; goals Um, Victor, Ishida |
 | 34 | Commanders stun Bengals 22-20 at death | N. AMERICA | ~04:15 | CONFIRMED | https://www.reuters.com/sports/nfl/commanders-rally-past-bengals-last-minute-drive-produces-winning-fg--flm-2026-11-24/ | Reuters: Stevens 5 FGs incl. 26-yarder at expiry, 22-20 |
 | 35 | Carême triumphs as UK sweeps International Emmys | N. AMERICA | 03:24 | CONFIRMED | https://www.filmfare.com/news/hollywood/international-emmy-awards-2026-winners-vir-das-real-kashmir-football-club-miss-out-full-list-here-87336.html | Winners list first published 03:24 UTC; Carême Best Drama, UK 9 trophies |
+| 36 | China probes Shanghai party chief | ASIA-PACIFIC | 12:20 | OFFICIAL | https://www.reuters.com/world/china-investigates-politburo-member-chen-jining-xinhua-says-2026-11-24/ | Xinhua/CCDI: Chen Jining, 62, probed for "severe violations"; 4th Politburo member since 2025; first sitting Shanghai chief probed since 2006 |
+| 37 | Russian drone enters Polish airspace | EUROPE | 17:05 | OFFICIAL | https://srnnews.com/russian-unmanned-aerial-vehicle-briefly-violated-polish-airspace-polish-armed-forces-say/ | Polish Armed Forces: Russian surveillance drone briefly violated airspace overnight; shoot-down authorised, not fired; first reported 24 Nov (incursion late 23 Nov) |
+| 38 | Record 5,258 UK heat deaths | EUROPE | 09:53 | OFFICIAL | https://www.gov.uk/government/news/ukhsa-data-shows-full-impact-of-summer-heatwaves-and-heat-associated-deaths | UKHSA: 5,258 heat-associated deaths in England May–Sep 2026, highest since monitoring began 2016 (prev. high 2,985 in 2022); worst week 21–28 June: 2,401 |
+| 39 | Senegal regain AFCON title on appeal | AFRICA | 14:24 | OFFICIAL | https://www.reuters.com/sports/soccer/soccer-senegal-reinstated-2025-africa-cup-nations-winners-2026-11-24/ | CAS upheld Senegal appeal unanimously; CAF March ruling set aside; 1–0 extra-time final result (18 Jan, Rabat) confirmed |
+| 40 | Malaysia to return 6,803 to Myanmar | ASIA-PACIFIC | 10:08 | OFFICIAL | https://www.nampa.org/text/23073669 | PM Anwar in parliament: 6,803 repatriated in Dec (1,500 by ship 6–7 Dec, 5,303 by air); 10,476 already returned in 2026 |
+| 41 | US consumer confidence surges to 103.3 | N. AMERICA | 15:00 | OFFICIAL | https://www.conference-board.org/topics/consumer-confidence/ | Conference Board: index +11.4 to 103.3, highest since Jan 2025; Present Situation 132.8, Expectations 83.6 |
+| 42 | Central Asia faces winter diesel cuts | CENTRAL ASIA | 13:32 | REPORTED | https://anewz.tv/region/central-asia/27178/kyrgyzstan-and-tajikistan-could-face-cuts-in-russian-supply/news | Argus via AnewZ: Russian refinery shutdowns cut winter diesel to Kyrgyzstan/Tajikistan; Russian fuel up to 91% of their imports; export ban extended to 31 Jan 2027 |
+| 43 | Caribbean states renew gun-violence pledge | CENT. AMERICA & CARIBBEAN | 24 Nov | OFFICIAL | https://www.unlirec.org/en/beyond-the-mid-point-caribbean-states-renew-commitment-to-reducing-gun-violence-through-regional-action/ | UNLIREC: 15 CARICOM states + Dominican Republic met virtually 24 Nov for 6th annual Caribbean Firearms Roadmap meeting; no clock time published |
+
+## V2 dropped / verified but NOT used (slot limit 43, region priority)
+- UN femicide report (UNODC/UN Women, 47,000 killed in 2025, 5/hour) — verified OFFICIAL, no clock time on release; cut to make room for the Caribbean region story.
+- Dell Q3 results (revenue $54.94bn, +103% YoY) — verified OFFICIAL, released after US close 24 Nov; cut for slot limit. No longer "not yet" — it happened 24 Nov.
+- Real Madrid rout PSV 5–1 (UCL) — verified OFFICIAL; cut for slot limit.
+- Chess: youngest title match opens drawn (Gukesh vs Sindarov, Geneva) — verified CONFIRMED; cut for slot limit.
+- Magyar meets Zelensky in Uzhhorod — verified CONFIRMED; cut (near V1 #4 thematically). Note: Magyar is Prime Minister, not opposition leader.
+- Hasina names 16 December for return — verified CONFIRMED (announcement; return contested by Dhaka); cut for slot limit.
+- Indonesia factory fire toll reaches 26 — verified CONFIRMED as 24-Nov toll update (fire itself 21 Nov); cut for slot limit.
+- NATO vows to defend space domain — first reported 24 Nov (BBC 02:15 UTC) but press conference was Mon 23 Nov; cut, weaker than A2's first-report limb.
+- Tankers hit mines in Hormuz — CLAIM only (Iranian Navy claim, Reuters could not verify); not used.
+- Korea jets alert — REJECTED: happened/first reported 23 Nov UTC.
+- Japan trade deal — REJECTED: no such deal on 24 Nov (nearest: Japan–Saudi oil-storage deal 20 Nov).
 
 ## Excluded (for DATE CHECK box — verified, but NOT 24 Nov)
 - COP31 ends without a deal — Sun 22 Nov 2026
@@ -55,10 +77,10 @@ task + Sheet 1 followed, noted here.
 - Russian warship sunk off Libya — Sun 22 Nov 2026
 - UK–EU post-Brexit deal signed — Fri 20 Nov 2026
 
-## Not yet (by ~13:00 UTC cut-off)
-- US consumer confidence — due 15:00 UTC
-- Dell Q3 results — after US close
-- UEFA Champions League evening games — from 17:45 UTC
+## Not yet (by ~13:00 UTC cut-off) — RESOLVED in V2
+- US consumer confidence — released 15:00 UTC, now story #41.
+- Dell Q3 results — released after US close, verified (revenue $54.94bn +103%), not in the 43-story grid (see V2 dropped list).
+- UEFA Champions League evening games — played from 17:45 UTC; Real Madrid 5–1 PSV verified, not in grid (see V2 dropped list).
 
 ## Boundary notes
 - #4 Zelensky: speech Mon 23 Nov, first reported 00:30–01:04 UTC Tue 24 Nov (first-report limb).

@@ -1,5 +1,5 @@
-// News-image 24 Nov 2026 entry (Node 22, standard library only).
-// The image is entry.png beside this file (768x1024 PNG, 629,245 bytes —
+// News-image 24 Nov 2026 entry, V3 FINAL revision (Node 22, standard library only).
+// The image is entry.png beside this file (768x1024 PNG, 591,606 bytes —
 // inside the gate: at most 1 MiB, at most 1024 by 1024 pixels). The program
 // validates the file first (PNG magic, IHDR dimensions, size cap), then
 // copies it to /output/entry.png, creating the output directory itself.

@@ -8,7 +8,7 @@ const { chromium } = require('playwright');
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const htmlPath = path.join(here, 'broadsheet.html');
-const out = process.argv[2] || path.join(here, 'entry.png');
+const out = process.argv[2] || path.join(here, 'entry-raw.png');
 
 const browser = await chromium.launch({
   executablePath: '/home/hatch/.cache/ms-playwright/chromium-1148/chrome-linux/chrome',
